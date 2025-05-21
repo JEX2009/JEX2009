@@ -40,6 +40,7 @@
 			<td><img width="50" src="https://avatars.githubusercontent.com/u/67919709?s=200&v=4" alt="Angular" title="Angular"/></td>
 			<td><img width="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel" title="Laravel"/></td>
       <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+      <td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" title="NodeJs"/></code></td>
     </tr>
   </table>
 </div>
