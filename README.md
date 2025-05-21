@@ -46,6 +46,7 @@
 
 ### How to contact me:
 - Email: orozcojason816@gmail.com
+- Linkedin : https://www.linkedin.com/in/jason-orozco-ruiz-65b149252/
 
 <!-- 
 **JEX2009/JEX2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
