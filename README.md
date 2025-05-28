@@ -6,12 +6,13 @@
 -->
 
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=JEX2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"    />
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=JEX2009&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"/>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JEX2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX2009&layout=pie&theme=dark"/>
     </td>
   </tr>
 </table>
