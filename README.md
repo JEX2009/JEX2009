@@ -43,6 +43,9 @@
       <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
       <td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" title="NodeJs"/></code></td>
     </tr>
+	  <tr>
+		  <td><img width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" alt="React" title="React"/>/td>
+	  </tr>
   </table>
 </div>
 
