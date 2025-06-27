@@ -44,7 +44,7 @@
       <td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" title="NodeJs"/></code></td>
     </tr>
 	  <tr>
-		  <td><img width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" alt="React" title="React"/>/td>
+		  <td><img width="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" alt="React" title="React"/></td>
 	  </tr>
   </table>
 </div>
