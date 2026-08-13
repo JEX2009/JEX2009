@@ -5,17 +5,6 @@
 </p>
 -->
 
-
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=JEX2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX2009&layout=pie&theme=dark"/>
-    </td>
-  </tr>
-</table>
 <div align="center">
 <table>
   <tr align = "center">
@@ -38,8 +27,8 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></td>
 			<td><img width="50" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4.png" alt="Django" title="Django"/></td>
-			<td><img width="50" src="https://avatars.githubusercontent.com/u/67919709?s=200&v=4" alt="Angular" title="Angular"/></td>
-			<td><img width="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel" title="Laravel"/></td>
+			<!-- <td><img width="50" src="https://avatars.githubusercontent.com/u/67919709?s=200&v=4" alt="Angular" title="Angular"/></td> -->
+			<!-- <td><img width="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel" title="Laravel"/></td> -->
       <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
       <td><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" title="NodeJs"/></code></td>
     </tr>
